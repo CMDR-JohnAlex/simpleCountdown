@@ -2,16 +2,22 @@
 
 ## [Unreleased]
 
-## [1.0.0]
+## [0.2.0]
+
+### Added
+* Added the simpleCountdown
+
+-------------------------------------------------------------------------------------------------------------
+
+## [0.1.0]
 
 ### Added
 * Added contrib/
 * Added data/
 * Added src/
 * Added src/main.cpp
-* Added src/main.h
 * Added ANSI.md
-* Added AUTHORS.txt
+* Added AUTHORS.md
 * Added CHANGELOG.md
 * Added simpleCountdown.sln
 * Added simpleCountdown.vcxproj
